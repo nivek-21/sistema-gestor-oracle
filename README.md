@@ -1,4 +1,4 @@
-# SISTEMA GESTOR DE BASES DE DATOS ORACLE
+# SISTEMA GESTOR DE BASES DE DATOS ORACLE EN JAVA
 _Aplicación para gestionar la base de datos ORACLE._
 
 ## Comenzando
