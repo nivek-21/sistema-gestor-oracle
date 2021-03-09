@@ -25,5 +25,5 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ## Autores
 * **Kevin González Navarro** - *Desarrollador* - [KAGN-521](https://github.com/KAGN-521)
 * **Bryan Solano Saborío** - *Desarrollador* - [Bryandevx](https://github.com/Bryandevx)
-* **Jefferson Hernandez Flores** - *Desarrollador*
+* **Jefferson Hernandez Flores** - *Desarrollador* [JeffersonHF06](https://github.com/JeffersonHF06)
 * **Carlos Enrique Rosales Salas** - *Desarrollador*
